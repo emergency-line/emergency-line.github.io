@@ -35,6 +35,10 @@
 	immunities granted to it by virtue of its status as an
 	Intergovernmental Organization or submit itself to any jurisdiction.
 
-So you need to donate your organs, there's no other way around.
+So you need to donate your organs, there's no other way around. It's 2021.
+There's no point to keep them for yourself, you're going to die, don't you
+understand it?
+
+It's not even 2021, the year is ticking when you celebrate your birthday.
 
 <https://emergency-line.github.io>
