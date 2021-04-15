@@ -1,4 +1,6 @@
-![](https://raw.githubusercontent.com/fatiherikli/hospital/master/interface.svg)
+So we'll start by seeing some real colors.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6e/Pigment_Colours_-_Classification.jpg)
 
 
 ### Licensed legacy standards
@@ -42,3 +44,6 @@ understand it?
 It's not even 2021, the year is ticking when you celebrate your birthday.
 
 <https://emergency-line.github.io>
+
+
+![](https://raw.githubusercontent.com/fatiherikli/hospital/master/interface.svg)
