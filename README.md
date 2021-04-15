@@ -7,7 +7,9 @@
 	under the terms of the MIT License quoted below.
 
 	Copyright (C) 2013 Fatih Erikli.
-	Copyright (C) 2013, 2014 CERN.
+	Copyright (C) 2013, 2014 CERN, the European Organization for Nuclear Research.
+	              https://cern.ch
+
 	Copyright (C) 2014, 2021 Yine ben.
 
 	Permission is hereby granted, free of charge, to any person obtaining
