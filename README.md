@@ -35,6 +35,6 @@
 	immunities granted to it by virtue of its status as an
 	Intergovernmental Organization or submit itself to any jurisdiction.
 
-So you can just visit the following website if you have a migraine or something
+So you can just visit the following website in order to not to get a migraine.
 
 <https://emergency-line.github.io>
