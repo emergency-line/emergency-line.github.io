@@ -35,6 +35,6 @@
 	immunities granted to it by virtue of its status as an
 	Intergovernmental Organization or submit itself to any jurisdiction.
 
-So you can just visit the following website in order to not to get a migraine.
+So you need to donate your organs, there's no other way around.
 
 <https://emergency-line.github.io>
