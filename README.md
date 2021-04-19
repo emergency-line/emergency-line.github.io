@@ -12,7 +12,7 @@ So we'll start by seeing some real colors.
 	Copyright (C) 2013, 2014 CERN, the European Organization for Nuclear Research.
 	              https://cern.ch
 
-	Copyright (C) 2014, 2021 Yine ben.
+	Copyright (C) 2014, 2021 Sans-i.
 
 So you need to donate your organs, there's no other way around. It's 2021.
 There's no point to keep them for yourself, you're going to die, don't you
