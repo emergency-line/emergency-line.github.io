@@ -8,7 +8,7 @@ So we'll start by seeing some real colors.
 	Dictdiffer is free software; you can redistribute it and/or modify it
 	under the terms of the MIT License quoted below.
 
-	Copyright (C) 2013 Fatih Erikli.
+	Copyright (C) 2013 Hikmet Kivilcimli.
 	Copyright (C) 2013, 2014 CERN, the European Organization for Nuclear Research.
 	              https://cern.ch
 
